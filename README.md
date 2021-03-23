@@ -7,8 +7,9 @@ https://main.dlqth3hfjcxg4.amplifyapp.com/
 
 
 # WechatBlackList is a website to help Wechat groupchat administrators to deal with advertisers.
-  You can also use it to check if a Wechat ID has been reported before, and how many times it has been reported.
-  Please also report the user if you feel necessary.
+  
+  Use it to check if a Wechat ID has been reported before, and how many times it has been reported.
+  Also report the user if you feel necessary.
   
 # How to use the website?
 
